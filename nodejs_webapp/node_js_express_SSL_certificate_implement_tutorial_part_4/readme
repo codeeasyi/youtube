@@ -1,1 +1,17 @@
-readme
+youtube video: 
+
+node js express SSL certificate implement tutorial part 4
+
+In this video I continue with the web app in Nodejs.
+This time I create and implement a SSL certificate to encrypt the communication.
+
+OpenSSl 1.1.1 for Windows
+https://kb.firedaemon.com/support/solutions/articles/4000121705
+#####################################################################################################
+node js express SSL Zertifikat implementieren Tutorial Teil 4
+
+In diesen Video geht es weiter mit der Web App in Nodejs.
+Diesmal erstelle und implementiere ich ein SSL Zertifikat um die Kommunikation zu Verschlüsseln.
+
+OpenSSl 1.1.1 für Windows
+https://kb.firedaemon.com/support/solutions/articles/4000121705
